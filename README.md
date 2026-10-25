@@ -60,6 +60,4 @@ npx paperclipai@latest onboard --yes
 
 این پروژه آموزشی برای صفحه **[MahiDev](https://www.instagram.com/mahi.dev/)** تهیه شده است. سناریوی بررسی مکالمات فروش، شرح وظایف چهار ایجنت، پرامپت‌های آماده و داده‌های آزمایشی، اجزای همین راهنمای آموزشی هستند.
 
-مجوز استفاده و بازنشر را **پیش از عمومی‌کردن ریپو** تعیین کن؛ فایل `LICENSE-CHOICE.md` برای همین تصمیم قرار داده شده است.
-
 **English:** Persian step-by-step companion guide to building a four-agent AI sales-analysis team with Paperclip + Codex CLI. Includes sample synthetic data and reusable prompts. Not affiliated with Paperclip.
